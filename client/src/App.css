@@ -1,0 +1,86 @@
+body {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "myFont" !important;
+}
+
+@font-face {
+  font-family: "myFont";
+  src: url("/fonts/iranyekan/woff2/IRANYekanWebRegular.woff2") format("woff");
+}
+
+@font-face {
+  font-family: "farsiNum";
+  src: url("/fonts/IRANSansWeb(FaNum).woff") format("woff");
+}
+
+.farsi-num {
+  font-family: "farsiNum" !important;
+}
+
+::selection {
+  background-color: #0ea5e9;
+  color: white;
+}
+
+.custom-scrollbar {
+  overflow-y: auto;
+  overflow-x: hidden !important;
+  scroll-behavior: smooth;
+}
+
+/* width */
+.custom-scrollbar::-webkit-scrollbar {
+  width: 8px;
+}
+
+/* Track */
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+/* Handle */
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  border-radius: 24px;
+  background: #8888882f;
+}
+
+/* Handle on hover */
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: #5555552a;
+}
+
+@keyframes fade-in {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes slide-in {
+  0% {
+    transform: translateY(-50%);
+    opacity: 0;
+  }
+  100% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+.animate-fade-in {
+  animation: fade-in 0.3s ease-in-out;
+}
+
+.animate-slide-in {
+  animation: slide-in 0.3s ease-in-out;
+}
+
+.Toastify__toast {
+  font-family: "myFont" !important;
+  text-align: right;
+  direction: rtl;
+}

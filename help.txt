@@ -1,0 +1,101 @@
+Frontend Structure
+
+--Pages
+
+-Dashboard: Overview of the app, metrics, and quick stats.
+-Courses
+-List Courses
+-Add/Edit Course
+-Articles
+-List Articles
+-Add/Edit Article
+-Users
+-List Users
+-Add/Edit User
+-Teachers
+-List Teachers
+-Add/Edit Teacher
+-Categories
+-List Categories
+-Add/Edit Category
+
+--Components
+
+-Shared Components
+-Header
+-Sidebar
+-Footer
+-Loader
+-Alert/Notification
+-Course Components
+-CourseList
+-CourseCard
+-CourseForm
+-Article Components
+-ArticleList
+-ArticleCard
+-ArticleForm
+-User Components
+-UserList
+-UserCard
+-UserForm
+-Teacher Components
+-TeacherList
+-TeacherCard
+-TeacherForm
+-Category Components
+-CategoryList
+-CategoryCard
+-CategoryForm
+-Redux Structure (if using Redux)
+
+--Actions
+
+-Course Actions (fetch, add, edit, delete)
+-Article Actions (fetch, add, edit, delete)
+-User Actions (fetch, add, edit, delete)
+-Teacher Actions (fetch, add, edit, delete)
+-Category Actions (fetch, add, edit, delete)
+-Reducers
+-Course Reducer
+-Article Reducer
+-User Reducer
+-Teacher Reducer
+-Category Reducer
+-Selectors: For selecting specific data from the state.
+
+--Routes
+
+/admin/dashboard
+/admin/courses
+/admin/courses/add
+/admin/courses/:id/edit
+/admin/articles
+/admin/articles/add
+/admin/articles/:id/edit
+/admin/users
+/admin/users/add
+/admin/users/:id/edit
+/admin/teachers
+/admin/teachers/add
+/admin/teachers/:id/edit
+/admin/categories
+/admin/categories/add
+/admin/categories/:id/edit
+
+--API Calls (courses/articles/users/teachers/categories)
+
+// Get all courses
+axios.get('/courses');
+
+// Get course by ID
+axios.get('/courses/:id');
+
+// Create a new course
+axios.post('/courses', courseData);
+
+// Update a courseS
+axios.put('/courses/:id', courseData);
+
+// Delete a course
+axios.delete('/courses/:id');

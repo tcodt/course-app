@@ -1,0 +1,584 @@
+{
+  "courses": [
+    {
+      "id": "1",
+      "title": "آموزش برنامه‌نویسی جاوااسکریپت",
+      "poster": "/images/courses/js-course.png",
+      "status": "در حال برگزاری",
+      "description": "این دوره به شما آموزش می‌دهد که چگونه با جاوااسکریپت برنامه‌نویسی کنید.",
+      "isRegistered": false,
+      "price": 100000,
+      "students": 150,
+      "rates": 4.5,
+      "courseTime": "20 ساعت",
+      "category": "فرانت اند",
+      "roadmapCategory": "frontend",
+      "lastUpdate": "2024-08-01",
+      "supportWay": "ایمیل و چت آنلاین",
+      "learnStatus": "در حال یادگیری",
+      "prerequisite": "آشنایی با HTML و CSS",
+      "teacher": "علی رضایی",
+      "aboutCourse": "این دوره شامل ویدئوهای آموزشی، تمرینات و پروژه‌های عملی است. در این دوره، شما با اصول اولیه جاوااسکریپت آشنا خواهید شد و توانایی ساخت برنامه‌های تعاملی را خواهید داشت. همچنین، ما به بررسی تکنیک‌های پیشرفته‌تر نیز خواهیم پرداخت. این دوره برای افرادی که می‌خواهند به دنیای برنامه‌نویسی ورود کنند، بسیار مناسب است. با ما همراه باشید و دنیای جدیدی از برنامه‌نویسی را کشف کنید.",
+      "comments": [],
+      "headings": [
+        "مقدمه‌ای بر جاوااسکریپت",
+        "متغیرها و نوع داده‌ها",
+        "توابع و کنترل جریان",
+        "برنامه‌نویسی شیءگرا"
+      ],
+      "type": "course"
+    },
+    {
+      "id": "2",
+      "title": "دوره کامل طراحی وب",
+      "poster": "/images/courses/website-design-course.png",
+      "status": "تکمیل شده",
+      "description": "یاد بگیرید که چگونه وبسایت‌های زیبا و کاربرپسند طراحی کنید.",
+      "isRegistered": false,
+      "price": 200000,
+      "students": 200,
+      "rates": 4.8,
+      "courseTime": "34 ساعت",
+      "category": "طراحی وب",
+      "roadmapCategory": "design",
+      "lastUpdate": "2024-07-15",
+      "supportWay": "ایمیل و تلفن",
+      "learnStatus": "در حال یادگیری",
+      "prerequisite": "هیچ",
+      "teacher": "علی رضایی",
+      "aboutCourse": "این دوره شامل طراحی با HTML، CSS و JavaScript است. در این دوره، شما با تکنیک‌های طراحی وب مدرن آشنا خواهید شد و می‌توانید وب‌سایت‌های حرفه‌ای ایجاد کنید. ما به بررسی ابزارهای مختلف و روش‌های بهینه‌سازی وب‌سایت‌ها خواهیم پرداخت. این دوره به گونه‌ای طراحی شده است که برای همه افراد، از مبتدی تا پیشرفته، مناسب باشد. به ما بپیوندید و مهارت‌های طراحی وب خود را ارتقا دهید.",
+      "comments": [],
+      "headings": [
+        "مقدمه‌ای بر طراحی وب",
+        "HTML و CSS",
+        "JavaScript و تعامل",
+        "پروژه نهایی"
+      ],
+      "type": "course"
+    },
+    {
+      "id": "3",
+      "title": "آموزش برنامه‌نویسی پایتون",
+      "poster": "/images/courses/python-course.jpg",
+      "status": "در حال برگزاری",
+      "description": "یاد بگیرید که چگونه با پایتون برنامه‌نویسی کنید.",
+      "isRegistered": false,
+      "price": 150000,
+      "students": 130,
+      "rates": 4.6,
+      "courseTime": "45 ساعت",
+      "category": "بک اند",
+      "roadmapCategory": "backend",
+      "lastUpdate": "2024-08-05",
+      "supportWay": "ایمیل و چت آنلاین",
+      "learnStatus": "در حال یادگیری",
+      "prerequisite": "هیچ",
+      "teacher": "مینا سعادتی",
+      "aboutCourse": "این دوره به شما می‌آموزد که چگونه با زبان برنامه‌نویسی پایتون برنامه‌های کاربردی بسازید. شما با مفاهیم پایه و پروژه‌های عملی آشنا خواهید شد.",
+      "comments": [],
+      "headings": [
+        "مقدمه‌ای بر پایتون",
+        "متغیرها و نوع داده‌ها",
+        "توابع و ماژول‌ها",
+        "کار با داده‌ها"
+      ],
+      "type": "course"
+    },
+    {
+      "id": "4",
+      "title": "آموزش HTML و CSS",
+      "poster": "/images/courses/html-css-course.png",
+      "status": "تکمیل شده",
+      "description": "یاد بگیرید که چگونه صفحات وب زیبا طراحی کنید.",
+      "isRegistered": false,
+      "price": 120000,
+      "students": 200,
+      "rates": 4.8,
+      "courseTime": "25 ساعت",
+      "category": "فرانت اند",
+      "roadmapCategory": "frontend",
+      "lastUpdate": "2024-07-15",
+      "supportWay": "ایمیل و تلفن",
+      "learnStatus": "در حال یادگیری",
+      "prerequisite": "هیچ",
+      "teacher": "سارا حسینی",
+      "aboutCourse": "در این دوره، شما با زبان‌های HTML و CSS آشنا خواهید شد و می‌توانید صفحات وب زیبا و کاربرپسند ایجاد کنید.",
+      "comments": [],
+      "headings": [
+        "مقدمه‌ای بر HTML",
+        "CSS و طراحی صفحات",
+        "مدیا کوئری‌ها",
+        "پروژه نهایی"
+      ],
+      "type": "course"
+    },
+    {
+      "id": "5",
+      "title": "آموزش JavaScript",
+      "poster": "/images/courses/js-complete-course.webp",
+      "status": "در حال برگزاری",
+      "description": "یاد بگیرید که چگونه با JavaScript وب‌سایت‌های تعاملی بسازید.",
+      "isRegistered": false,
+      "price": 140000,
+      "students": 180,
+      "rates": 4.7,
+      "courseTime": "30 ساعت",
+      "category": "فرانت اند",
+      "roadmapCategory": "frontend",
+      "lastUpdate": "2024-08-01",
+      "supportWay": "ایمیل و چت آنلاین",
+      "learnStatus": "در حال یادگیری",
+      "prerequisite": "آشنایی با HTML و CSS",
+      "teacher": "علی رضایی",
+      "aboutCourse": "این دوره شامل مباحث JavaScript، از جمله متغیرها، توابع، و DOM است. شما می‌توانید وب‌سایت‌های تعاملی بسازید.",
+      "comments": [],
+      "headings": [
+        "مقدمه‌ای بر JavaScript",
+        "متغیرها و نوع داده‌ها",
+        "عملکردها و رویدادها",
+        "پروژه نهایی"
+      ],
+      "type": "course"
+    },
+    {
+      "id": "6",
+      "title": "آموزش React.js",
+      "poster": "/images/courses/react-course.png",
+      "status": "در حال برگزاری",
+      "description": "یاد بگیرید که چگونه با React.js برنامه‌های وب تعاملی بسازید.",
+      "isRegistered": false,
+      "price": 160000,
+      "students": 90,
+      "rates": 4.5,
+      "courseTime": "40 ساعت",
+      "category": "فرانت اند",
+      "roadmapCategory": "frontend",
+      "lastUpdate": "2024-08-02",
+      "supportWay": "ایمیل و چت آنلاین",
+      "learnStatus": "در حال یادگیری",
+      "prerequisite": "آشنایی با JavaScript",
+      "teacher": "علی رضایی",
+      "aboutCourse": "این دوره به شما می‌آموزد که چگونه با استفاده از React.js برنامه‌های وب تعاملی بسازید و با مفاهیم کامپوننت‌ها و وضعیت آشنا خواهید شد.",
+      "comments": [],
+      "headings": [
+        "مقدمه‌ای بر React",
+        "کامپوننت‌ها و Props",
+        "وضعیت و Lifecycle",
+        "پروژه نهایی"
+      ],
+      "type": "course"
+    },
+    {
+      "id": "7",
+      "title": "آموزش Node.js",
+      "poster": "/images/courses/node-course.png",
+      "status": "در حال برگزاری",
+      "description": "یاد بگیرید که چگونه با Node.js برنامه‌های سمت سرور بسازید.",
+      "isRegistered": false,
+      "price": 170000,
+      "students": 110,
+      "rates": 4.6,
+      "courseTime": "43 ساعت",
+      "category": "بک اند",
+      "roadmapCategory": "backend",
+      "lastUpdate": "2024-08-03",
+      "supportWay": "ایمیل و چت آنلاین",
+      "learnStatus": "در حال یادگیری",
+      "prerequisite": "آشنایی با JavaScript",
+      "teacher": "علی رضایی",
+      "aboutCourse": "در این دوره، شما با Node.js و Express.js آشنا خواهید شد و می‌توانید برنامه‌های سمت سرور بسازید.",
+      "comments": [],
+      "headings": [
+        "مقدمه‌ای بر Node.js",
+        "Express.js و Routing",
+        "مدیریت پایگاه داده",
+        "پروژه نهایی"
+      ],
+      "type": "course"
+    },
+    {
+      "id": "8",
+      "title": "آموزش MongoDB",
+      "poster": "/images/courses/mongo-db-course.png",
+      "status": "در حال برگزاری",
+      "description": "یاد بگیرید که چگونه با MongoDB داده‌ها را مدیریت کنید.",
+      "isRegistered": false,
+      "price": 130000,
+      "students": 85,
+      "rates": 4.4,
+      "courseTime": "28 ساعت",
+      "category": "بک اند",
+      "roadmapCategory": "backend",
+      "lastUpdate": "2024-08-04",
+      "supportWay": "ایمیل و چت آنلاین",
+      "learnStatus": "در حال یادگیری",
+      "prerequisite": "آشنایی با JavaScript",
+      "teacher": "سارا حسینی",
+      "aboutCourse": "این دوره به شما می‌آموزد که چگونه با MongoDB داده‌ها را ذخیره، جستجو و مدیریت کنید.",
+      "comments": [],
+      "headings": [
+        "مقدمه‌ای بر MongoDB",
+        "عملیات CRUD",
+        "مدیریت داده‌ها",
+        "پروژه نهایی"
+      ],
+      "type": "course"
+    },
+    {
+      "id": "9",
+      "title": "آموزش PHP و MySQL",
+      "poster": "/images/courses/php-mysql-course.png",
+      "status": "در حال برگزاری",
+      "description": "یاد بگیرید که چگونه با PHP و MySQL برنامه‌های وب بسازید.",
+      "isRegistered": false,
+      "price": 150000,
+      "students": 100,
+      "rates": 4.5,
+      "courseTime": "29 ساعت",
+      "category": "بک اند",
+      "roadmapCategory": "backend",
+      "lastUpdate": "2024-08-05",
+      "supportWay": "ایمیل و چت آنلاین",
+      "learnStatus": "در حال یادگیری",
+      "prerequisite": "آشنایی با HTML و CSS",
+      "teacher": "مینا سعادتی",
+      "aboutCourse": "در این دوره، شما با PHP و MySQL آشنا خواهید شد و می‌توانید برنامه‌های وب داینامیک بسازید.",
+      "comments": [],
+      "headings": [
+        "مقدمه‌ای بر PHP",
+        "کار با MySQL",
+        "ایجاد فرم‌ها و پردازش داده‌ها",
+        "پروژه نهایی"
+      ],
+      "type": "course"
+    },
+    {
+      "id": "10",
+      "title": "آموزش ASP.NET",
+      "poster": "/images/courses/asp-course.png",
+      "status": "در حال برگزاری",
+      "description": "یاد بگیرید که چگونه با ASP.NET برنامه‌های وب بسازید.",
+      "isRegistered": false,
+      "price": 160000,
+      "students": 70,
+      "rates": 4.6,
+      "courseTime": "50 ساعت",
+      "category": "بک اند",
+      "roadmapCategory": "backend",
+      "lastUpdate": "2024-08-06",
+      "supportWay": "ایمیل و چت آنلاین",
+      "learnStatus": "در حال یادگیری",
+      "prerequisite": "آشنایی با C#",
+      "teacher": "مینا سعادتی",
+      "aboutCourse": "این دوره به شما می‌آموزد که چگونه با ASP.NET و C# برنامه‌های وب بسازید و با معماری MVC آشنا خواهید شد.",
+      "comments": [],
+      "headings": [
+        "مقدمه‌ای بر ASP.NET",
+        "معماری MVC",
+        "کار با پایگاه داده",
+        "پروژه نهایی"
+      ],
+      "type": "course"
+    },
+    {
+      "id": "11",
+      "title": "آموزش TypeScript",
+      "poster": "/images/courses/typescript-course.webp",
+      "status": "در حال برگزاری",
+      "description": "یاد بگیرید که چگونه با TypeScript کدهای بهتری بنویسید.",
+      "isRegistered": false,
+      "price": 140000,
+      "students": 60,
+      "rates": 4.5,
+      "courseTime": "38 ساعت",
+      "category": "فرانت اند",
+      "roadmapCategory": "frontend",
+      "lastUpdate": "2024-08-07",
+      "supportWay": "ایمیل و چت آنلاین",
+      "learnStatus": "در حال یادگیری",
+      "prerequisite": "آشنایی با JavaScript",
+      "teacher": "علی رضایی",
+      "aboutCourse": "این دوره به شما می‌آموزد که چگونه با TypeScript کدنویسی کنید و از قابلیت‌های آن برای نوشتن کدهای امن‌تر و قابل نگهداری استفاده کنید.",
+      "comments": [],
+      "headings": [
+        "مقدمه‌ای بر TypeScript",
+        "انواع داده‌ها و توابع",
+        "کلاس‌ها و رابط‌ها",
+        "پروژه نهایی"
+      ],
+      "type": "course"
+    },
+    {
+      "id": "12",
+      "title": "آموزش GraphQL",
+      "poster": "/images/courses/graphql-course.webp",
+      "status": "در حال برگزاری",
+      "description": "یاد بگیرید که چگونه با GraphQL API‌های کارآمد بسازید.",
+      "isRegistered": false,
+      "price": 150000,
+      "students": 50,
+      "rates": 4.7,
+      "courseTime": "23 ساعت",
+      "category": "بک اند",
+      "roadmapCategory": "backend",
+      "lastUpdate": "2024-08-08",
+      "supportWay": "ایمیل و چت آنلاین",
+      "learnStatus": "در حال یادگیری",
+      "prerequisite": "آشنایی با RESTful APIs",
+      "teacher": "علی رضایی",
+      "aboutCourse": "در این دوره، شما با GraphQL و نحوه استفاده از آن برای ساخت API‌های کارآمد آشنا خواهید شد.",
+      "comments": [],
+      "headings": [
+        "مقدمه‌ای بر GraphQL",
+        "نحوه تعریف اسکیما",
+        "عملیات CRUD با GraphQL",
+        "پروژه نهایی"
+      ],
+      "type": "course"
+    }
+  ],
+  "articles": [
+    {
+      "id": "1",
+      "title": "چگونه برنامه‌نویس شویم؟",
+      "content": "در این مقاله به روش‌های یادگیری برنامه‌نویسی می‌پردازیم. برنامه‌نویسی یکی از مهارت‌های مهم در دنیای امروز است و یادگیری آن می‌تواند درهای جدیدی را به روی شما باز کند. برای شروع، می‌توانید از منابع آنلاین، کتاب‌ها و دوره‌های آموزشی استفاده کنید. همچنین، تمرین مداوم و کار بر روی پروژه‌های واقعی به شما کمک خواهد کرد تا مهارت‌های خود را تقویت کنید. در نهایت، صبر و پشتکار کلید موفقیت در این مسیر است.",
+      "author": "مهدی احمدی",
+      "publishedDate": "2024-06-20",
+      "poster": "/images/articles/article-1.png",
+      "type": "article"
+    },
+    {
+      "id": "2",
+      "title": "راهنمای طراحی وب",
+      "content": "نکات مهم طراحی وب و ابزارهای مفید. طراحی وب یک هنر است که نیاز به خلاقیت و دانش فنی دارد. در این مقاله، ما به بررسی نکات کلیدی در طراحی وب می‌پردازیم و ابزارهایی را معرفی می‌کنیم که می‌توانند به شما در این زمینه کمک کنند. از انتخاب رنگ‌ها و فونت‌ها گرفته تا بهینه‌سازی وب‌سایت برای موتورهای جستجو، هر یک از این نکات می‌تواند تأثیر زیادی بر موفقیت وب‌سایت شما داشته باشد. با ما همراه باشید تا با این نکات آشنا شوید.",
+      "author": "فاطمه کریمی",
+      "publishedDate": "2024-07-10",
+      "poster": "/images/articles/article-2.png",
+      "type": "article"
+    },
+    {
+      "id": "3",
+      "title": "نکات کلیدی در یادگیری برنامه‌نویسی",
+      "content": "در این مقاله، به بررسی نکات کلیدی برای یادگیری برنامه‌نویسی می‌پردازیم. انتخاب زبان مناسب، تمرین مداوم و پروژه‌های عملی از جمله مواردی هستند که به شما در این مسیر کمک خواهند کرد.",
+      "author": "علی اکبری",
+      "publishedDate": "2024-07-25",
+      "poster": "/images/articles/article-3.jpg",
+      "type": "article"
+    },
+    {
+      "id": "4",
+      "title": "راهنمای انتخاب دوره‌های آموزشی آنلاین",
+      "content": "انتخاب دوره‌های آموزشی آنلاین می‌تواند چالش‌برانگیز باشد. در این مقاله، به نکات مهمی اشاره می‌کنیم که به شما در انتخاب بهترین دوره‌ها کمک خواهد کرد.",
+      "author": "سارا حسینی",
+      "publishedDate": "2024-08-01",
+      "poster": "/images/articles/article-4.jpg",
+      "type": "article"
+    },
+    {
+      "id": "5",
+      "title": "چگونه یک وب‌سایت موفق بسازیم؟",
+      "content": "در این مقاله، مراحل ساخت یک وب‌سایت موفق را بررسی می‌کنیم. از انتخاب دامنه و هاستینگ تا طراحی و بهینه‌سازی، هر مرحله را به تفصیل توضیح می‌دهیم.",
+      "author": "فرزاد نظری",
+      "publishedDate": "2024-08-05",
+      "poster": "/images/articles/article-5.webp",
+      "type": "article"
+    },
+    {
+      "id": "6",
+      "title": "تأثیر رسانه‌های اجتماعی بر کسب‌وکارها",
+      "content": "رسانه‌های اجتماعی نقش مهمی در تبلیغات و بازاریابی دارند. در این مقاله، به بررسی تأثیرات مثبت و منفی رسانه‌های اجتماعی بر کسب‌وکارها می‌پردازیم.",
+      "author": "ندا بهرامی",
+      "publishedDate": "2024-08-10",
+      "poster": "/images/articles/article-6.jpeg",
+      "type": "article"
+    }
+  ],
+  "users": [
+    {
+      "id": "bfbb",
+      "username": "امیر محمد خانجانی",
+      "phone": "09379646210",
+      "email": "amirprogrammer38@gmail.com",
+      "password": "amir123456",
+      "courses": [],
+      "isRegistered": true,
+      "isStudent": false,
+      "token": "3f59a9ab-651f-4aca-a35b-366df5aa3499"
+    },
+    {
+      "id": "0bd3",
+      "username": "رضا خانی",
+      "phone": "09044182540",
+      "email": "reza@gmail.com",
+      "password": "amirWE2312",
+      "courses": [],
+      "isRegistered": true,
+      "isStudent": false,
+      "token": "13c0fda2-305b-4d92-96de-869f0011884f"
+    },
+    {
+      "id": "5d1a",
+      "username": "امیر عباس",
+      "phone": "09390199977",
+      "email": "amirabbass12@gmail.com",
+      "password": "amir123Abbass",
+      "courses": [],
+      "isRegistered": true,
+      "isStudent": false,
+      "token": "6f8fbb7c-b5dc-45f3-a23d-242e5d22c96e"
+    },
+    {
+      "id": "128e",
+      "username": "امیر عباس",
+      "phone": "09390199977",
+      "email": "amirabbass12@gmail.com",
+      "password": "amir123Abbass",
+      "courses": [],
+      "isRegistered": true,
+      "isStudent": false,
+      "token": "0401dc68-7ed8-4af0-bc7e-e4cdbf80c0a7"
+    },
+    {
+      "id": "dfb2",
+      "username": "amir_kh12",
+      "phone": "09390199977",
+      "email": "amirkhanjni12@gmail.com",
+      "password": "asjkhjf876",
+      "courses": [],
+      "isRegistered": true,
+      "isStudent": false,
+      "token": "2694ea99-ec06-4454-a347-72750296cc7e"
+    },
+    {
+      "id": "f941",
+      "username": "amir_kh12",
+      "phone": "09390199977",
+      "email": "amirkhanjni12@gmail.com",
+      "password": "asadw2432",
+      "courses": [],
+      "isRegistered": true,
+      "isStudent": false,
+      "token": "130753c2-a663-4250-b759-05957437f6a7"
+    },
+    {
+      "id": "c69a",
+      "username": "amir_kh12",
+      "phone": "09390199977",
+      "email": "amirkhanjni12@gmail.com",
+      "password": "adwq4324235cf",
+      "courses": [],
+      "isRegistered": true,
+      "isStudent": false,
+      "token": "ee9fd068-6069-446d-be81-adbfb8dff04f"
+    },
+    {
+      "id": "f8aa",
+      "username": "amir_kh12",
+      "phone": "09390199977",
+      "email": "amirkhanjni12@gmail.com",
+      "password": "sjdh876438732de",
+      "courses": [],
+      "isRegistered": true,
+      "isStudent": false,
+      "token": "b6534b83-1e68-411e-83d3-1d7be233ffbf"
+    },
+    {
+      "id": "64c2",
+      "username": "amir_kh12",
+      "phone": "09390199977",
+      "email": "amirkhanjni12@gmail.com",
+      "password": "sdfdafeaRD3423",
+      "courses": [],
+      "isRegistered": true,
+      "isStudent": false,
+      "token": "d9721619-c780-486c-8499-52b4ad02b323"
+    },
+    {
+      "id": "396b",
+      "username": "amir_kh12",
+      "phone": "09390199977",
+      "email": "amirkhanjni12@gmail.com",
+      "password": "dfsdfaetr43543",
+      "courses": [],
+      "isRegistered": true,
+      "isStudent": false,
+      "token": "b35e4af7-4634-43c2-9f95-b356f0431ffa"
+    }
+  ],
+  "teachers": [
+    {
+      "id": "1",
+      "name": "مینا سعادتی",
+      "role": "مدرس پایتون",
+      "resume": "مینا سعادتی دارای ۵ سال تجربه در تدریس زبان برنامه‌نویسی پایتون و توسعه نرم‌افزار است. او در پروژه‌های متعددی در زمینه تحلیل داده‌ها و هوش مصنوعی شرکت کرده است.",
+      "courses": [
+        {
+          "courseId": 3
+        },
+        {
+          "courseId": 9
+        },
+        {
+          "courseId": 10
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "سارا حسینی",
+      "role": "مدرس HTML و CSS",
+      "resume": "سارا حسینی یک طراح وب با ۷ سال تجربه در طراحی و توسعه وب‌سایت‌های کاربرپسند است. او به تدریس HTML و CSS علاقه‌مند است و به دانش‌آموزان کمک می‌کند تا مهارت‌های طراحی خود را بهبود بخشند.",
+      "courses": [
+        {
+          "courseId": 4
+        },
+        {
+          "courseId": 8
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "علی رضایی",
+      "role": "مدرس JavaScript",
+      "resume": "علی رضایی توسعه‌دهنده وب با ۶ سال تجربه در استفاده از JavaScript و فریم‌ورک‌های مرتبط مانند React و Node.js است. او به تدریس JavaScript و برنامه‌نویسی frontend علاقه‌مند است.",
+      "courses": [
+        {
+          "courseId": 1
+        },
+        {
+          "courseId": 2
+        },
+        {
+          "courseId": 5
+        },
+        {
+          "courseId": 6
+        },
+        {
+          "courseId": 7
+        },
+        {
+          "courseId": 11
+        },
+        {
+          "courseId": 12
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "title": "فرانت اند"
+    },
+    {
+      "id": "2",
+      "title": "بک اند"
+    },
+    {
+      "id": "3",
+      "title": "طراحی وب"
+    }
+  ]
+}
